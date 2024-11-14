@@ -55,9 +55,9 @@ Each project’s Flask app is configured to send logs to Logstash using logstash
 • **Access Kibana**: http://&lt;EC2-IP&gt;:5601
 
 ## Future Enhancements
-• Add user authentication and role-based access control.
-• Implement alerting based on specific thresholds in Prometheus.
-• Integrate logging to capture more application-specific metrics and errors.
+• Add user authentication and role-based access control.  
+• Implement alerting based on specific thresholds in Prometheus.  
+• Integrate logging to capture more application-specific metrics and errors.  
 
 ## Contributing
 Feel free to open issues or submit pull requests for any features or improvements!
