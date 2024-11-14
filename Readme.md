@@ -49,10 +49,10 @@ Logstash, Elasticsearch, and Kibana are configured to centralize logs. Each proj
 Each project’s Flask app is configured to send logs to Logstash using logstash_async.
 
 ## Usage
-• **Access the Tenant Management Portal**: http://'<EC2-IP>':5000  
-• **Access Prometheus**: http://'<EC2-IP>':9090  
-• **Access Grafana**: http://<EC2-IP>:3000  
-• **Access Kibana**: http://<EC2-IP>:5601
+• **Access the Tenant Management Portal**: http://&lt;EC2-IP&gt;:5000  
+• **Access Prometheus**: http://&lt;EC2-IP&gt;:9090  
+• **Access Grafana**: http://&lt;EC2-IP&gt;:3000  
+• **Access Kibana**: http://&lt;EC2-IP&gt;:5601
 
 ## Future Enhancements
 • Add user authentication and role-based access control.
