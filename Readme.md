@@ -14,7 +14,7 @@ This project demonstrates DevOps skills by deploying a Flask application in Dock
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mehakbhartiya/Tenant-Management-Portal.git
 
 2. **Build and Run the Docker Container**:
     ```bash
